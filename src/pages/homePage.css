@@ -1,0 +1,17 @@
+.navbar{
+    padding: 0px 0px !important;
+}
+
+#root{
+    background-color: black;
+}
+
+.Tv{
+    text-decoration: none;
+    color: white;
+}
+
+.title:hover,
+.text:hover{
+    color: #0d6efd !important;
+}
